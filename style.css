@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+* {
+  background: #37383C;
+  font-family: "Carter One";
+}
+
+.container .carte img {
+  width: 200px;
+  height: 150px;
+}
+
+.container .carte.html {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 0;
+  width: 200px;
+  border-radius: 10px;
+  background: #FEFDE9;
+  height: 450px;
+  box-shadow: 0 0 5px #F15A03,
+              0 0 10px #F15A03,
+              0 0 15px #F15A03,
+              0 0 20px #F15A03,
+              0 0 25px #F15A03,
+              0 0 30px #F15A03,
+              0 0 35px #F15A03,
+              0 0 40px #F15A03;
+}
+
+.container .carte h1.html {
+  text-align: center;
+  background: #FEFDE9;
+  color: #F15A03;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+
+.container .carte p {
+  background: #FEFDE9;
+}
+
+.container .carte h1.css {
+  text-align: center;
+  background: #FEFDE9;
+  color: #0078FF;
+}
+
+.container .carte h1.javascript {
+  text-align: center;
+  background: #FEFDE9;
+  color: #FDEB0A;
+}
+
+.container .carte.css {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 0;
+  width: 200px;
+  border-radius: 10px;
+  background: #FEFDE9;
+  height: 450px;
+  box-shadow: 0 0 5px #0078FF,
+              0 0 10px #0078FF,
+              0 0 15px #0078FF,
+              0 0 20px #0078FF,
+              0 0 25px #0078FF,
+              0 0 30px #0078FF,
+              0 0 35px #0078FF,
+              0 0 40px #0078FF;
+}
+
+.container .carte.javascript {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 0;
+  width: 200px;
+  border-radius: 10px;
+  background: #FEFDE9;
+  height: 450px;
+  box-shadow: 0 0 5px #FDEB0A,
+              0 0 10px #FDEB0A,
+              0 0 15px #FDEB0A,
+              0 0 20px #FDEB0A,
+              0 0 25px #FDEB0A,
+              0 0 30px #FDEB0A,
+              0 0 35px #FDEB0A,
+              0 0 40px #FDEB0A;
+}
+
+.big-title {
+  color: white;
+  margin-bottom: 50px;
+  text-align: center;
+  text-shadow: 0 0 5px white;
+}
+
+p.noir {
+  color: black;
+  font-size: 12.3px;
+}
+
+p.blanc {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  
+}
